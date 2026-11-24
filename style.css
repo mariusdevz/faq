@@ -5,12 +5,14 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-color: #f5ededef;
   font-family: Arial, sans-serif;
 }
 
 header {
   text-align: center;
+  background-color: #ffff;
+  padding: 70px;
 }
 
 header,
