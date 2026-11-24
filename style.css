@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #f5ededef;
+  background-color: #eef0f1bd;
   font-family: Arial, sans-serif;
 }
 
@@ -46,7 +46,7 @@ ul {
 }
 
 span {
-  color: lightskyblue;
+  color: blue;
   cursor: pointer;
 }
 
