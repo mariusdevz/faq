@@ -67,10 +67,6 @@ span {
 }
 
 @media (max-width: 480px) {
-  h1 {
-    background-color: orange;
-  }
-
   p {
     font-size: 13px;
   }
@@ -81,10 +77,6 @@ span {
 }
 
 @media (max-width: 375px) {
-  h1 {
-    background-color: blue;
-  }
-
   p {
     font-size: 13px;
   }
